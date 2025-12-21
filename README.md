@@ -1,17 +1,15 @@
 # 🎵 Music Popularity Predictor 🎵
 
-A Streamlit app that predicts the popularity of a song based on its features.
+a mini machine learning app that predicts the popularity of a music track based on certain parameters. it is trained with the help of Top Hits Spotify from 2000-2019 dataset on Kaggle. 
 
 ## Features
 - Danceability
 - Energy
 - Tempo
 - Valence
+- Acousticness
+- Speechiness
 
-## How to Run
-1. Install dependencies: `pip install -r requirements.txt`
-2. Run app: `streamlit run app.py`
-
-## Model
+## Model Uses
 - Random Forest Regressor
 - Scaler: StandardScaler
