@@ -1,4 +1,4 @@
-# Music Popularity Predictor 🎵
+# 🎵 Music Popularity Predictor 🎵
 
 A Streamlit app that predicts the popularity of a song based on its features.
 
