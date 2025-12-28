@@ -13,3 +13,5 @@ a mini machine learning app that predicts the popularity of a music track based 
 ## Model Uses
 - Random Forest Regressor
 - Scaler: StandardScaler
+  
+## Live Demo: https://music-trends-over-the-decades-2000-2019-kbq4kkhykuq5etkpgusk8v.streamlit.app/
