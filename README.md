@@ -1,4 +1,4 @@
-# 🎵 Music Popularity Predictor 🎵
+# Music Popularity Predictor
 
 a mini machine learning app that predicts the popularity of a music track based on certain parameters. it is trained with the help of Top Hits Spotify from 2000-2019 dataset on Kaggle. 
 
