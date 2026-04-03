@@ -6,7 +6,7 @@ import joblib
 model = joblib.load("music_popularity_model.pkl")
 scaler = joblib.load("scaler.pkl")
 
-st.title("Music Popularity Predictor 🎵")
+st.title("Music Popularity Predictor")
 
 
 energy = st.slider("Energy", 0.0, 1.0, 0.5)
